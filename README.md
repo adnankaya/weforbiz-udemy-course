@@ -1,4 +1,4 @@
-# WeForBiz
+# Deployment Driven Development with Django Udemy Course Repo
 
 A marketplace app connects clients with professionals
 
